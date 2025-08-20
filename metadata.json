@@ -1,0 +1,5 @@
+{
+  "name": "Drone Detection System",
+  "description": "An interactive web application to upload an image and use a simulated AI model to detect and locate drones within it, displaying the results with bounding boxes.",
+  "requestFramePermissions": []
+}
